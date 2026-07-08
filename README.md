@@ -23,8 +23,13 @@ The CC BY-SA 4.0 license covers the **mechanical system only**. The following ar
 - The Cardhaven novel series and all fiction published under the M.A. Lionmayne pen name
 - The world of Arkturon, Aerith Hold, Titan's Edge, the Great Shallows, and all named locations
 - All characters (Aric Dalan, Ximena Vega, Elara, Bran, Faelan, Lyra, Anara Voss, and all others)
+- **Blu Beaks** — this signature creature of the Cardhaven universe is proprietary and NOT included in the open bestiary. Third-party content may not use Blu Beaks without a separate licensing arrangement with Pandiego Press.
 - The Cardhaven Compatible logo and branding assets
 - Any story, lore, or narrative content from the novels
+
+The following ARE open under CC BY-SA 4.0:
+- The mechanical game system (stats, cards, Triple Bind, progression, crafting, dungeon difficulty ratings)
+- Creature stat blocks published in the /bestiary/ folder (e.g. Tide-Stalkers, Crag-Lord, Bramble Warden) — note that Blu Beaks are explicitly excluded from this open release
 
 If you want to write a novel or story set in the Cardhaven world, that requires a separate licensing arrangement with Pandiego Press.
 
