@@ -35,6 +35,8 @@ If you want to write a novel or story set in the Cardhaven world, that requires 
 
 ## Cardhaven Compatible
 
+![Cardhaven Compatible badge](assets/badge/cardhaven-compatible.png)
+
 Third-party content that uses this ruleset and meets our compatibility standards may apply to use the Cardhaven Compatible badge. See [COMPATIBILITY.md](COMPATIBILITY.md) for requirements.
 
 ## Contributing
