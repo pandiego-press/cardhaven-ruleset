@@ -18,4 +18,10 @@ Submit a compatibility request via GitHub Issues with a link to your product and
 
 ## Badge Usage
 
-The Cardhaven Compatible logo may be used in approved products in its original form only — no modifications to the logo are permitted. Logo files are available in [/assets/badge/](assets/badge/).
+- The badge may only be used by products that have been approved per the Requirements and How to Apply sections above. Using the badge without approval is not permitted.
+- Use the logo file exactly as provided in [/assets/badge/](assets/badge/) — no recoloring, distorting, cropping, or otherwise modifying the artwork.
+- Do not alter the badge's aspect ratio. It may be resized proportionally, but must remain legible at whatever size it's displayed.
+- The badge must link or point back to this repository (or to Pandiego Press) wherever it's displayed, so users can verify the compatibility claim.
+- Do not combine the badge with other logos or marks in a way that suggests co-branding or official partnership with Pandiego Press.
+- Displaying the badge does not imply endorsement of your product by M.A. Lionmayne or Pandiego Press — do not caption or present it in a way that suggests otherwise.
+- Approval may be revoked if a product stops meeting the Requirements above (e.g. it's updated in a way that breaks core mechanics, or drops the required attribution line). Revoked products must remove the badge.
