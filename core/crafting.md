@@ -26,6 +26,13 @@ or progression instead.
 
 The factory slot is an organizational tool, not a lock.
 
+## Legendary Card Crafting Cost
+
+A Legendary Card requires 500 Legendary Shards assembled
+in the Legendary Card Factory Slot.
+Current known Legendary Card: Shard of the Titan's Aegis
+(Aric Dalan, 1/500 as of end of Book One).
+
 ## Base Recipe
 
 Core Shard + Fuel Shard is the base crafting recipe.
