@@ -4,7 +4,8 @@
 
 ## Core Attributes
 
-Four core stats drive all derived resource pools:
+Known as the **Attribute Diamond** — four core stats drive all
+derived resource pools:
 
 - **STR (Strength)** — Focus Cap
 - **CON (Constitution)** — Stamina, HP

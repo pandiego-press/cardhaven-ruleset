@@ -18,6 +18,17 @@ Common → Uncommon → Rare → Legendary → Mythic
 
 Cards are installed into Card Slots. Installation details, slot counts, and upgrade rules to be documented here.
 
+## Storage — Card Box / Sleeves
+
+Uninstalled cards must be stored in a card box or sleeves.
+Unprotected raw cards are volatile — wild magic held exposed
+too long without being installed or secured can leak, causing
+damage to the holder and to anything within a few yards of
+them. A card box/sleeve is a temporary dampener, not a
+permanent solution: cards must still be installed within a
+bounded window after the pack is opened (see Progression) or
+the leak eventually escapes containment.
+
 ## Death Mechanic
 
 Cards fall into two categories on death:
