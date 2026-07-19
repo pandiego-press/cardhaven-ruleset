@@ -33,6 +33,13 @@ in the Legendary Card Factory Slot.
 Current known Legendary Card: Shard of the Titan's Aegis
 (Aric Dalan, 1/500 as of end of Book One).
 
+## Mythic Card Crafting Cost
+
+A Mythic Card requires 1000 Mythic Shards assembled
+in the Mythic Card Factory Slot.
+Current known Mythic Shard progress: Ximena Vega, 1/1000
+as of end of Book One.
+
 ## Base Recipe
 
 Core Shard + Fuel Shard is the base crafting recipe.
