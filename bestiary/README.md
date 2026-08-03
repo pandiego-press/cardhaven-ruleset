@@ -15,7 +15,19 @@ Entries may include general creature appearance and behavior (standard bestiary 
 ## Folder Structure
 
 - **cardhaven/** — native-format creature stat blocks for LitRPG authors, using this ruleset's own terms (Rank/Level, XP, Trash Mob/Elite/Boss roles, etc.).
-- **conversions/** — tabletop conversions of the same creatures for GMs running other systems (dnd5e, pathfinder2e, shadowdark, draw-steel, nimble). Added in Phase 2.
+- **conversions/** — tabletop conversions of the same 17 creatures for GMs running other systems. Each subfolder holds one file per creature, using the same filename as its `cardhaven/` counterpart and linking back to it:
+  - **dnd5e/** — D&D 5e (AC, HP dice, Challenge Rating, Actions/Traits).
+  - **pathfinder2e/** — Pathfinder 2e (Creature level, Perception, Skills, Saving Throws).
+  - **shadowdark/** — Shadowdark (minimalist AC/HP/Attack/Move one-liners).
+  - **draw-steel/** — Draw Steel (Level, Role, EV, Stamina, Power Roll abilities).
+  - **nimble/** — Nimble (Level, HP, Armor Type; each file also notes that the corresponding `dnd5e/` file can be used directly in Nimble per official 5e-compatibility rules).
+
+### Conversion confidence levels
+
+All conversion stats are derived, good-faith adaptations of the native `cardhaven/` entries — not manuscript citations — proportionally scaled between two calibration anchors (Razor-Beetle Worker as the Trash Mob floor, Vein Matriarch as the Boss ceiling). Reliability varies by system:
+
+- **D&D 5e, Pathfinder 2e, and Shadowdark** are built on stable, well-documented public design guidelines. These conversions can be used with reasonable confidence.
+- **Draw Steel and Nimble** are structurally correct (real, confirmed field formats for each system) but their numeric balance is a good-faith approximation, not verified against complete official per-level tables. Every Draw Steel and Nimble file carries an explicit *"Approximate balance — sanity-check against official guidelines before table use"* disclaimer as its first line — treat those numbers as a starting point, not a final answer.
 
 ## Entries
 
