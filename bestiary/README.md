@@ -14,22 +14,16 @@ Entries may include general creature appearance and behavior (standard bestiary 
 
 ## Folder Structure
 
-- **cardhaven/** — native-format creature stat blocks for LitRPG authors, using this ruleset's own terms (Rank/Level, XP, Trash Mob/Elite/Boss roles, etc.).
-- **conversions/** — tabletop conversions of the same 17 creatures for GMs running other systems. Each subfolder holds one file per creature, using the same filename as its `cardhaven/` counterpart and linking back to it:
-  - **dnd5e/** — D&D 5e (AC, HP dice, Challenge Rating, Actions/Traits).
-  - **pathfinder2e/** — Pathfinder 2e (Creature level, Perception, Skills, Saving Throws).
-  - **shadowdark/** — Shadowdark (minimalist AC/HP/Attack/Move one-liners).
-  - **draw-steel/** — Draw Steel (Level, Role, EV, Stamina, Power Roll abilities).
-  - **nimble/** — Nimble (Level, HP, Armor Type; each file also notes that the corresponding `dnd5e/` file can be used directly in Nimble per official 5e-compatibility rules).
+- **cardhaven/** — native Cardhaven format (Type / Role / Rank / HP / Habitat / Abilities), intended for LitRPG authors writing fiction compatible with this ruleset.
+- **conversions/{dnd5e,pathfinder2e,shadowdark,draw-steel,nimble}/** — tabletop stat block conversions for GMs, one file per creature per system, each linking back to its native `cardhaven/` entry.
 
 ### Conversion confidence levels
 
-All conversion stats are derived, good-faith adaptations of the native `cardhaven/` entries — not manuscript citations — proportionally scaled between two calibration anchors (Razor-Beetle Worker as the Trash Mob floor, Vein Matriarch as the Boss ceiling). Reliability varies by system:
-
-- **D&D 5e, Pathfinder 2e, and Shadowdark** are built on stable, well-documented public design guidelines. These conversions can be used with reasonable confidence.
-- **Draw Steel and Nimble** are structurally correct (real, confirmed field formats for each system) but their numeric balance is a good-faith approximation, not verified against complete official per-level tables. Every Draw Steel and Nimble file carries an explicit *"Approximate balance — sanity-check against official guidelines before table use"* disclaimer as its first line — treat those numbers as a starting point, not a final answer.
+D&D 5e, Pathfinder 2e, and Shadowdark conversions are built on stable, well-documented public design guidelines. Draw Steel and Nimble conversions are structurally correct but their numeric balance is a good-faith approximation, not verified against complete official per-level tables — see the disclaimer at the top of each individual Draw Steel/Nimble file.
 
 ## Entries
+
+17 creatures, each with 6 total files: 1 native entry in `cardhaven/` plus 5 tabletop conversions (one per system) in the parallel `conversions/` folders described above. The native entry for each creature is linked below; use its filename to find the matching conversion file in any `conversions/<system>/` folder.
 
 - [bramble-stalker.md](cardhaven/bramble-stalker.md)
 - [bramble-warden.md](cardhaven/bramble-warden.md)
