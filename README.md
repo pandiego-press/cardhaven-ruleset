@@ -2,6 +2,8 @@
 
 The official open-source release of the Cardhaven game system, created by M.A. Lionmayne and published by Pandiego Press.
 
+See [AUTHORS_GUIDE.md](AUTHORS_GUIDE.md) for a guide on how to use this ruleset and bestiary when writing your own LitRPG fiction.
+
 ## What This Is
 
 The Cardhaven Ruleset is the mechanical system underlying the Cardhaven novel series — a card-based progression fantasy system featuring:

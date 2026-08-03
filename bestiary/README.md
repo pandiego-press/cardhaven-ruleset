@@ -2,6 +2,8 @@
 
 Community-maintained creature stat blocks for the Cardhaven Ruleset, released under CC BY-SA 4.0.
 
+If you're a LitRPG author looking to use these creatures in your own fiction rather than at a tabletop, see [../AUTHORS_GUIDE.md](../AUTHORS_GUIDE.md) — it has a section specifically on using this bestiary to calibrate challenge in a scene.
+
 ## Important Exclusion
 
 **Blu Beaks are NOT part of this open bestiary.** They are a proprietary creature of the Cardhaven universe and remain the exclusive intellectual property of M.A. Lionmayne / Pandiego Press. Do not submit Blu Beak stat blocks or lore as contributions — they will not be accepted.
