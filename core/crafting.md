@@ -26,12 +26,23 @@ or progression instead.
 
 The factory slot is an organizational tool, not a lock.
 
+## Pouch Capacity
+
+A standard belt pouch holds 5 inventory slots.
+
+Stackable items (Common/Uncommon Shards, crafting materials of the same type) occupy a single slot
+per stack regardless of quantity — a stack of 100 Shards and a stack of 3 Shards both take up 1 slot.
+Non-stackable or unique items (cards, gear, quest items) each occupy their own slot.
+
 ## Legendary Card Crafting Cost
 
 A Legendary Card requires 500 Legendary Shards assembled
 in the Legendary Card Factory Slot.
 Current known Legendary Card: Shard of the Titan's Aegis
-(Aric Dalan, 1/500 as of end of Book One).
+(Aric Dalan, 1/500 as of end of Book One). Per Aric's
+end-of-book character sheet, this shard is held in reserve
+and is not slotted in the Factory Slot.
+<!-- Sourced from Book One manuscript verification (end-of-book character sheet). -->
 
 ## Mythic Card Crafting Cost
 

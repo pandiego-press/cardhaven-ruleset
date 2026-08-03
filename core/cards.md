@@ -16,7 +16,22 @@ Common → Uncommon → Rare → Legendary → Mythic
 
 ## Installation Rules
 
-Cards are installed into Card Slots. Installation details, slot counts, and upgrade rules to be documented here.
+Cards are installed into Card Slots. Starting Card Slot count is 3
+(multiple characters begin with "[3 Card Slots Available]"). Filling
+a slot triggers a 60-second Install Cooldown (confirmed via "[Card
+Slot 1: Filled] [Install Cooldown: 60 Seconds]").
+<!-- Sourced from Book One manuscript verification. -->
+
+Upgrade rules and slot count progression beyond the starting 3 are
+still pending — not found in the manuscript.
+
+## Tank Passive
+
+A passive Trait Card that applies a flat -5% damage reduction to
+blocked/passthrough damage. Confirmed via repeated combat log lines
+throughout Aric's fight scenes, e.g. "[Damage: 5 -> 4 (Tank Passive:
+-5%)]".
+<!-- Sourced from Book One manuscript verification. -->
 
 ## Storage — Card Box / Sleeves
 
