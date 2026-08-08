@@ -14,6 +14,12 @@
 
 Common → Uncommon → Rare → Legendary → Mythic
 
+This rarity scale applies to **Cores** (crafting blueprints) and the
+**Cards** crafted from them — never to Shards. Shards are a single,
+undifferentiated resource with no rarity of their own; see
+[resources.md](resources.md) and [crafting.md](crafting.md).
+<!-- Sourced from author retcon confirmation (unify Shard rarity into Core rarity). -->
+
 ## Installation Rules
 
 Cards are installed into Card Slots. Starting Card Slot count is 3
@@ -22,8 +28,13 @@ a slot triggers a 60-second Install Cooldown (confirmed via "[Card
 Slot 1: Filled] [Install Cooldown: 60 Seconds]").
 <!-- Sourced from Book One manuscript verification. -->
 
-Upgrade rules and slot count progression beyond the starting 3 are
-still pending — not found in the manuscript.
+A 4th Card Slot — the **Special Slot** — exists beyond the 3 starting
+Card Slots and accepts Legendary-rarity cards only.
+<!-- Sourced from Book One manuscript verification. -->
+
+Upgrade rules and further slot count progression beyond the starting
+3 plus the Special Slot are still pending — not found in the
+manuscript.
 
 ## Tank Passive
 

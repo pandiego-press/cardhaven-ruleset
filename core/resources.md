@@ -4,7 +4,11 @@
 
 ## Shards
 
-The universal crafting/progression currency. Types and tiers to be documented here.
+The universal crafting/progression currency. Shards are
+undifferentiated — no rarity types exist at the Shard level. Only
+Cores (crafting blueprints) and Cards carry rarity; see
+[crafting.md](crafting.md) and [cards.md](cards.md).
+<!-- Sourced from author retcon confirmation (unify Shard rarity into Core rarity). -->
 
 ## Shard Sickness
 

@@ -11,10 +11,10 @@ The Cardhaven Ruleset is the mechanical system underlying the Cardhaven novel se
 - Four core stats (STR, CON, INT, DEX) with derived resource pools (Focus, HP, Stamina, Mana, Agility)
 - Card Slots and card installation mechanics
 - The Triple Bind resource economy (Economy / Crafting / Progression)
-- Shard types, XP economy, and Leveling Rituals
+- Shards, XP economy, and Leveling Rituals
 - Card rarity tiers (Common → Uncommon → Rare → Legendary → Mythic)
 - Dungeon difficulty ratings (Rank D through Rank S)
-- Crafting rules (Core + Fuel Shard recipe system)
+- Crafting rules (Core + Shard fuel recipe system)
 
 This ruleset is released under CC BY-SA 4.0 so that other authors, game designers, and community creators can build compatible content.
 
